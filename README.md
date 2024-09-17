@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jante Adebowale</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-- 💬 Ask me about **Java, Kotlin Mobile & Backend**
+- 💬 Ask me about **Java, Kotlin Mobile & API Development**
 
 - 📫 How to reach me **jante.adebowale@gmail.com**
 
