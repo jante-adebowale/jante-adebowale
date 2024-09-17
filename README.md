@@ -1,8 +1,8 @@
 ![MasterHead](https://yt3.googleusercontent.com/5D5xTI1iG0GegyMNeWOSsyq1ScXS3d21lVlXB6IPlOviQrlHGLa8m8RTGiPpZUAJuo466t5bEhQ=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 <h1 align="center">Hi 👋, I'm Jante Adebowale</h1>
-<h3 align="center">A passionate Android Software Engineer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
-- 💬 Ask me about **Java, Kotlin and Android**
+- 💬 Ask me about **Java, Kotlin Mobile & Backend**
 
 - 📫 How to reach me **jante.adebowale@gmail.com**
 
