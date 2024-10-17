@@ -2,11 +2,13 @@
 <h1 align="center">Hi 👋, I'm Jante Adebowale</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-- 💬 Ask me about **Java, Kotlin Mobile & API Development**
+- 💬 Ask me about **Java, Kotlin & API Development**
+
+- 💬 I’m currently learning Compose Multiplatform**
 
 - 📫 How to reach me **jante.adebowale@gmail.com**
 
-- 📄 Know about my experiences [https://www.janteadebowale.com](https://www.janteadebowale.com)
+- 📄 About me [https://www.janteadebowale.com](https://www.janteadebowale.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
