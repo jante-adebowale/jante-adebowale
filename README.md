@@ -1,10 +1,8 @@
 ![MasterHead](https://yt3.googleusercontent.com/FnIowL-Qrsr09QJ-83RDZdwILyF3zRVuMd-bzaSBN-0mF5JvTbe0gDG7RaN80xYQjdHLvLEl=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 <h1 align="center">Hi 👋, I'm Jante Adebowale</h1>
-<h3 align="center">Software Developer with experience in Mobile and API Development</h3>
+<h3 align="center">Software Developer with experience in Android Mobile and Backend Development</h3>
 
-- 💬 Ask me about **Java, Kotlin & API Development**
-
-- 💬 I’m currently learning Compose Multiplatform**
+- 💬 Ask me about **Java, Kotlin, Android Mobile & Backend Development**
 
 - 📫 How to reach me **jante.adebowale@gmail.com**
 
